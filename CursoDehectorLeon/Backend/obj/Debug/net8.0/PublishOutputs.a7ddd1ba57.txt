@@ -1,0 +1,11 @@
+D:\WindowsProyects\C_SHARP\CursoDehectorLeon\Backend\obj\Debug\net8.0\PubTmp\Out\Backend.exe
+D:\WindowsProyects\C_SHARP\CursoDehectorLeon\Backend\obj\Debug\net8.0\PubTmp\Out\appsettings.Development.json
+D:\WindowsProyects\C_SHARP\CursoDehectorLeon\Backend\obj\Debug\net8.0\PubTmp\Out\appsettings.json
+D:\WindowsProyects\C_SHARP\CursoDehectorLeon\Backend\obj\Debug\net8.0\PubTmp\Out\Backend.dll
+D:\WindowsProyects\C_SHARP\CursoDehectorLeon\Backend\obj\Debug\net8.0\PubTmp\Out\Backend.deps.json
+D:\WindowsProyects\C_SHARP\CursoDehectorLeon\Backend\obj\Debug\net8.0\PubTmp\Out\Backend.runtimeconfig.json
+D:\WindowsProyects\C_SHARP\CursoDehectorLeon\Backend\obj\Debug\net8.0\PubTmp\Out\Backend.pdb
+D:\WindowsProyects\C_SHARP\CursoDehectorLeon\Backend\obj\Debug\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+D:\WindowsProyects\C_SHARP\CursoDehectorLeon\Backend\obj\Debug\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\WindowsProyects\C_SHARP\CursoDehectorLeon\Backend\obj\Debug\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\WindowsProyects\C_SHARP\CursoDehectorLeon\Backend\obj\Debug\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

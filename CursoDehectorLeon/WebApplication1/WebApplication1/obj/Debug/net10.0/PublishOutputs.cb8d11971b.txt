@@ -1,0 +1,9 @@
+D:\WindowsProyects\C_SHARP\CursoDehectorLeon\WebApplication1\WebApplication1\obj\Debug\net10.0\PubTmp\Out\WebApplication1.exe
+D:\WindowsProyects\C_SHARP\CursoDehectorLeon\WebApplication1\WebApplication1\obj\Debug\net10.0\PubTmp\Out\appsettings.Development.json
+D:\WindowsProyects\C_SHARP\CursoDehectorLeon\WebApplication1\WebApplication1\obj\Debug\net10.0\PubTmp\Out\appsettings.json
+D:\WindowsProyects\C_SHARP\CursoDehectorLeon\WebApplication1\WebApplication1\obj\Debug\net10.0\PubTmp\Out\WebApplication1.dll
+D:\WindowsProyects\C_SHARP\CursoDehectorLeon\WebApplication1\WebApplication1\obj\Debug\net10.0\PubTmp\Out\WebApplication1.deps.json
+D:\WindowsProyects\C_SHARP\CursoDehectorLeon\WebApplication1\WebApplication1\obj\Debug\net10.0\PubTmp\Out\WebApplication1.runtimeconfig.json
+D:\WindowsProyects\C_SHARP\CursoDehectorLeon\WebApplication1\WebApplication1\obj\Debug\net10.0\PubTmp\Out\WebApplication1.pdb
+D:\WindowsProyects\C_SHARP\CursoDehectorLeon\WebApplication1\WebApplication1\obj\Debug\net10.0\PubTmp\Out\Microsoft.AspNetCore.OpenApi.dll
+D:\WindowsProyects\C_SHARP\CursoDehectorLeon\WebApplication1\WebApplication1\obj\Debug\net10.0\PubTmp\Out\Microsoft.OpenApi.dll

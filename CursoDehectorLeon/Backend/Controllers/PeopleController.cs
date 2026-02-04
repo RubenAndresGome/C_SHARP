@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using Backend.Services;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
@@ -12,13 +13,30 @@ namespace Backend.Controllers
     [ApiController]
     public class PeopleController : ControllerBase
     {
-        // Puedes añadir endpoints API aquí
-
-        public PeopleController()
-        { 
+        //temas controladores, rutas, acciones, verbos http, modelos, validaciones
+        //servicios 
+        private IPeopleService _peopleService;
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="peopleService"></param>
+        public PeopleController([FromKeyedServices("peopleServices")]IPeopleService peopleService) 
+        {
+            _peopleService = peopleService;
         
         
         }
+
+
+
+
+
+
+
+
+
+
+
         [HttpGet("all")]
         public List<People>  GetPeople() =>Repository.People;
 
@@ -48,22 +66,16 @@ namespace Backend.Controllers
             return results;
         }
         [HttpPost]
-        public IActionResult AddPeople([FromBody] People newPeople)
+        public IActionResult AddPeople( People newPeople)
         {
-            //*
-            //Si esta vacio
-            //*/
-            if (newPeople == null)
-            {
-                return BadRequest("El objeto People no puede ser nulo.");
-            }
-            // Validar que el ID no exista ya
-            if (Repository.People.Any(p => p.Id == newPeople.Id))
-            {
-                return Conflict("Ya existe una persona con el mismo ID.");
+            if (!_peopleService.Validate(    newPeople   )  ){
+                return BadRequest();
+
             }
             Repository.People.Add(newPeople);
-            return NoContent(); //todo fue bien no devuelve nada
+            return NoContent();
+
+
         }
 
 

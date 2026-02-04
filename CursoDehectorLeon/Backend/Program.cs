@@ -1,11 +1,29 @@
+using Backend.Services;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+
+
+//builder.Services.AddSingleton<IPeopleService, People2Service>();
+builder.Services.AddKeyedSingleton<IPeopleService, People2Service>("People2Service");
+builder.Services.AddKeyedSingleton<IPeopleService, PeopleService>("PeopleService");
+
+
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+
+
+builder.Services.AddKeyedSingleton<IRandomService, RandomService>("randomSingleton");
+builder.Services.AddKeyedSingleton<IRandomService, RandomService>("randomScoped");
+builder.Services.AddKeyedSingleton<IRandomService, RandomService>("randomTransient");
+
+
+
+
 
 var app = builder.Build();
 

@@ -22,7 +22,7 @@ builder.Services.AddKeyedSingleton<IRandomService, RandomService>("randomScoped"
 builder.Services.AddKeyedSingleton<IRandomService, RandomService>("randomTransient");
 
 
-
+builder.Services.AddScoped<IPostService, PostService>();
 
 
 var app = builder.Build();

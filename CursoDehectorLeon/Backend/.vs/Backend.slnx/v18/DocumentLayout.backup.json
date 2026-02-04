@@ -3,40 +3,36 @@
   "WorkspaceRootPath": "D:\\WindowsProyects\\C_SHARP\\CursoDehectorLeon\\Backend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5ADA2BB6-BD8A-FBBA-631C-E748BB1D8E69}|Backend.csproj|d:\\windowsproyects\\c_sharp\\cursodehectorleon\\backend\\controllers\\somecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5ADA2BB6-BD8A-FBBA-631C-E748BB1D8E69}|Backend.csproj|solutionrelative:controllers\\somecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5ADA2BB6-BD8A-FBBA-631C-E748BB1D8E69}|Backend.csproj|d:\\windowsproyects\\c_sharp\\cursodehectorleon\\backend\\services\\postservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ADA2BB6-BD8A-FBBA-631C-E748BB1D8E69}|Backend.csproj|solutionrelative:services\\postservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5ADA2BB6-BD8A-FBBA-631C-E748BB1D8E69}|Backend.csproj|d:\\windowsproyects\\c_sharp\\cursodehectorleon\\backend\\controllers\\randomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5ADA2BB6-BD8A-FBBA-631C-E748BB1D8E69}|Backend.csproj|solutionrelative:controllers\\randomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5ADA2BB6-BD8A-FBBA-631C-E748BB1D8E69}|Backend.csproj|d:\\windowsproyects\\c_sharp\\cursodehectorleon\\backend\\services\\ipostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ADA2BB6-BD8A-FBBA-631C-E748BB1D8E69}|Backend.csproj|solutionrelative:services\\ipostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ADA2BB6-BD8A-FBBA-631C-E748BB1D8E69}|Backend.csproj|d:\\windowsproyects\\c_sharp\\cursodehectorleon\\backend\\dtos\\postdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ADA2BB6-BD8A-FBBA-631C-E748BB1D8E69}|Backend.csproj|solutionrelative:dtos\\postdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ADA2BB6-BD8A-FBBA-631C-E748BB1D8E69}|Backend.csproj|d:\\windowsproyects\\c_sharp\\cursodehectorleon\\backend\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ADA2BB6-BD8A-FBBA-631C-E748BB1D8E69}|Backend.csproj|solutionrelative:controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5ADA2BB6-BD8A-FBBA-631C-E748BB1D8E69}|Backend.csproj|d:\\windowsproyects\\c_sharp\\cursodehectorleon\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5ADA2BB6-BD8A-FBBA-631C-E748BB1D8E69}|Backend.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{5ADA2BB6-BD8A-FBBA-631C-E748BB1D8E69}|Backend.csproj|d:\\windowsproyects\\c_sharp\\cursodehectorleon\\backend\\backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5ADA2BB6-BD8A-FBBA-631C-E748BB1D8E69}|Backend.csproj|solutionrelative:backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5ADA2BB6-BD8A-FBBA-631C-E748BB1D8E69}|Backend.csproj|d:\\windowsproyects\\c_sharp\\cursodehectorleon\\backend\\services\\peopleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5ADA2BB6-BD8A-FBBA-631C-E748BB1D8E69}|Backend.csproj|solutionrelative:services\\peopleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5ADA2BB6-BD8A-FBBA-631C-E748BB1D8E69}|Backend.csproj|d:\\windowsproyects\\c_sharp\\cursodehectorleon\\backend\\services\\randomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5ADA2BB6-BD8A-FBBA-631C-E748BB1D8E69}|Backend.csproj|solutionrelative:services\\randomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5ADA2BB6-BD8A-FBBA-631C-E748BB1D8E69}|Backend.csproj|d:\\windowsproyects\\c_sharp\\cursodehectorleon\\backend\\services\\irandomservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5ADA2BB6-BD8A-FBBA-631C-E748BB1D8E69}|Backend.csproj|solutionrelative:services\\irandomservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5ADA2BB6-BD8A-FBBA-631C-E748BB1D8E69}|Backend.csproj|d:\\windowsproyects\\c_sharp\\cursodehectorleon\\backend\\controllers\\peoplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5ADA2BB6-BD8A-FBBA-631C-E748BB1D8E69}|Backend.csproj|solutionrelative:controllers\\peoplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5ADA2BB6-BD8A-FBBA-631C-E748BB1D8E69}|Backend.csproj|d:\\windowsproyects\\c_sharp\\cursodehectorleon\\backend\\services\\people2service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5ADA2BB6-BD8A-FBBA-631C-E748BB1D8E69}|Backend.csproj|solutionrelative:services\\people2service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5ADA2BB6-BD8A-FBBA-631C-E748BB1D8E69}|Backend.csproj|d:\\windowsproyects\\c_sharp\\cursodehectorleon\\backend\\services\\ipeopleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5ADA2BB6-BD8A-FBBA-631C-E748BB1D8E69}|Backend.csproj|solutionrelative:services\\ipeopleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,84 +42,83 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PostController.cs",
+              "DocumentMoniker": "D:\\WindowsProyects\\C_SHARP\\CursoDehectorLeon\\Backend\\Controllers\\PostController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PostController.cs",
+              "ToolTip": "D:\\WindowsProyects\\C_SHARP\\CursoDehectorLeon\\Backend\\Controllers\\PostController.cs",
+              "RelativeToolTip": "Controllers\\PostController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAkwBAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T04:26:02.142Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "SomeController.cs",
-              "DocumentMoniker": "D:\\WindowsProyects\\C_SHARP\\CursoDehectorLeon\\Backend\\Controllers\\SomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\SomeController.cs",
-              "ToolTip": "D:\\WindowsProyects\\C_SHARP\\CursoDehectorLeon\\Backend\\Controllers\\SomeController.cs",
-              "RelativeToolTip": "Controllers\\SomeController.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAAywEIAAAAyAAAAAAAAAA==",
+              "Title": "PostService.cs",
+              "DocumentMoniker": "D:\\WindowsProyects\\C_SHARP\\CursoDehectorLeon\\Backend\\Services\\PostService.cs",
+              "RelativeDocumentMoniker": "Services\\PostService.cs",
+              "ToolTip": "D:\\WindowsProyects\\C_SHARP\\CursoDehectorLeon\\Backend\\Services\\PostService.cs*",
+              "RelativeToolTip": "Services\\PostService.cs*",
+              "ViewState": "AgIAABAAAAAAAAAAAAAuwB0AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-30T03:30:34.952Z",
+              "WhenOpened": "2026-02-04T04:11:21.385Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "RandomController.cs",
-              "DocumentMoniker": "D:\\WindowsProyects\\C_SHARP\\CursoDehectorLeon\\Backend\\Controllers\\RandomController.cs",
-              "RelativeDocumentMoniker": "Controllers\\RandomController.cs",
-              "ToolTip": "D:\\WindowsProyects\\C_SHARP\\CursoDehectorLeon\\Backend\\Controllers\\RandomController.cs",
-              "RelativeToolTip": "Controllers\\RandomController.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAQwCUAAAA/AAAAAAAAAA==",
+              "Title": "IPostService.cs",
+              "DocumentMoniker": "D:\\WindowsProyects\\C_SHARP\\CursoDehectorLeon\\Backend\\Services\\IPostService.cs",
+              "RelativeDocumentMoniker": "Services\\IPostService.cs",
+              "ToolTip": "D:\\WindowsProyects\\C_SHARP\\CursoDehectorLeon\\Backend\\Services\\IPostService.cs",
+              "RelativeToolTip": "Services\\IPostService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAhwAcAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-30T02:03:12.27Z",
+              "WhenOpened": "2026-02-04T04:07:50.025Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "RandomService.cs",
-              "DocumentMoniker": "D:\\WindowsProyects\\C_SHARP\\CursoDehectorLeon\\Backend\\Services\\RandomService.cs",
-              "RelativeDocumentMoniker": "Services\\RandomService.cs",
-              "ToolTip": "D:\\WindowsProyects\\C_SHARP\\CursoDehectorLeon\\Backend\\Services\\RandomService.cs",
-              "RelativeToolTip": "Services\\RandomService.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwA4AAAAlAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "PostDto.cs",
+              "DocumentMoniker": "D:\\WindowsProyects\\C_SHARP\\CursoDehectorLeon\\Backend\\DTOs\\PostDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\PostDto.cs",
+              "ToolTip": "D:\\WindowsProyects\\C_SHARP\\CursoDehectorLeon\\Backend\\DTOs\\PostDto.cs",
+              "RelativeToolTip": "DTOs\\PostDto.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA0wAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-30T01:42:22.335Z",
+              "WhenOpened": "2026-02-04T04:01:47.867Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "IRandomService .cs",
-              "DocumentMoniker": "D:\\WindowsProyects\\C_SHARP\\CursoDehectorLeon\\Backend\\Services\\IRandomService .cs",
-              "RelativeDocumentMoniker": "Services\\IRandomService .cs",
-              "ToolTip": "D:\\WindowsProyects\\C_SHARP\\CursoDehectorLeon\\Backend\\Services\\IRandomService .cs",
-              "RelativeToolTip": "Services\\IRandomService .cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-30T01:40:40.137Z",
-              "EditorCaption": ""
+              "Title": "Backend.csproj",
+              "DocumentMoniker": "D:\\WindowsProyects\\C_SHARP\\CursoDehectorLeon\\Backend\\Backend.csproj",
+              "RelativeDocumentMoniker": "Backend.csproj",
+              "ToolTip": "D:\\WindowsProyects\\C_SHARP\\CursoDehectorLeon\\Backend\\Backend.csproj",
+              "RelativeToolTip": "Backend.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-04T03:56:05.756Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "PeopleController.cs",
-              "DocumentMoniker": "D:\\WindowsProyects\\C_SHARP\\CursoDehectorLeon\\Backend\\Controllers\\PeopleController.cs",
-              "RelativeDocumentMoniker": "Controllers\\PeopleController.cs",
-              "ToolTip": "D:\\WindowsProyects\\C_SHARP\\CursoDehectorLeon\\Backend\\Controllers\\PeopleController.cs",
-              "RelativeToolTip": "Controllers\\PeopleController.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAhwBYAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T05:21:56.81Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "PeopleService.cs",
               "DocumentMoniker": "D:\\WindowsProyects\\C_SHARP\\CursoDehectorLeon\\Backend\\Services\\PeopleService.cs",
               "RelativeDocumentMoniker": "Services\\PeopleService.cs",
@@ -131,20 +126,7 @@
               "RelativeToolTip": "Services\\PeopleService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T05:21:50.091Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "IPeopleService.cs",
-              "DocumentMoniker": "D:\\WindowsProyects\\C_SHARP\\CursoDehectorLeon\\Backend\\Services\\IPeopleService.cs",
-              "RelativeDocumentMoniker": "Services\\IPeopleService.cs",
-              "ToolTip": "D:\\WindowsProyects\\C_SHARP\\CursoDehectorLeon\\Backend\\Services\\IPeopleService.cs",
-              "RelativeToolTip": "Services\\IPeopleService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T05:21:49.058Z"
+              "WhenOpened": "2026-01-11T05:21:50.091Z"
             },
             {
               "$type": "Document",
@@ -160,13 +142,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\WindowsProyects\\C_SHARP\\CursoDehectorLeon\\Backend\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\WindowsProyects\\C_SHARP\\CursoDehectorLeon\\Backend\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABgAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-11T05:10:10.052Z",
               "EditorCaption": ""

@@ -14,8 +14,8 @@ namespace Backend.Services
         public async Task<IEnumerable<PostDto>> Get()
         {
 
-            string url = "https://jsonplaceholder.typicode.com/posts";
-            var result =await _httpClient.GetAsync(url);
+           // string url = "https://jsonplaceholder.typicode.com/posts";
+            var result =await _httpClient.GetAsync(_httpClient.BaseAddress);
             var body = await result.Content.ReadAsStringAsync();
 
 

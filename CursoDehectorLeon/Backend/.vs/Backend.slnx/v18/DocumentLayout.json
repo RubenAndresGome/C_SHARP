@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\WindowsProyects\\C_SHARP\\CursoDehectorLeon\\Backend\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5ADA2BB6-BD8A-FBBA-631C-E748BB1D8E69}|Backend.csproj|d:\\windowsproyects\\c_sharp\\cursodehectorleon\\backend\\models\\beer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ADA2BB6-BD8A-FBBA-631C-E748BB1D8E69}|Backend.csproj|solutionrelative:models\\beer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5ADA2BB6-BD8A-FBBA-631C-E748BB1D8E69}|Backend.csproj|d:\\windowsproyects\\c_sharp\\cursodehectorleon\\backend\\controllers\\beercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5ADA2BB6-BD8A-FBBA-631C-E748BB1D8E69}|Backend.csproj|solutionrelative:controllers\\beercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,16 +15,8 @@
       "RelativeMoniker": "D:0:0:{5ADA2BB6-BD8A-FBBA-631C-E748BB1D8E69}|Backend.csproj|solutionrelative:models\\storecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5ADA2BB6-BD8A-FBBA-631C-E748BB1D8E69}|Backend.csproj|d:\\windowsproyects\\c_sharp\\cursodehectorleon\\backend\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5ADA2BB6-BD8A-FBBA-631C-E748BB1D8E69}|Backend.csproj|solutionrelative:models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5ADA2BB6-BD8A-FBBA-631C-E748BB1D8E69}|Backend.csproj|d:\\windowsproyects\\c_sharp\\cursodehectorleon\\backend\\models\\beer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5ADA2BB6-BD8A-FBBA-631C-E748BB1D8E69}|Backend.csproj|solutionrelative:models\\beer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5ADA2BB6-BD8A-FBBA-631C-E748BB1D8E69}|Backend.csproj|d:\\windowsproyects\\c_sharp\\cursodehectorleon\\backend\\dtos\\postdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5ADA2BB6-BD8A-FBBA-631C-E748BB1D8E69}|Backend.csproj|solutionrelative:dtos\\postdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5ADA2BB6-BD8A-FBBA-631C-E748BB1D8E69}|Backend.csproj|d:\\windowsproyects\\c_sharp\\cursodehectorleon\\backend\\dtos\\beerupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ADA2BB6-BD8A-FBBA-631C-E748BB1D8E69}|Backend.csproj|solutionrelative:dtos\\beerupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5ADA2BB6-BD8A-FBBA-631C-E748BB1D8E69}|Backend.csproj|d:\\windowsproyects\\c_sharp\\cursodehectorleon\\backend\\dtos\\beerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,46 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{5ADA2BB6-BD8A-FBBA-631C-E748BB1D8E69}|Backend.csproj|d:\\windowsproyects\\c_sharp\\cursodehectorleon\\backend\\dtos\\beerinsertdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5ADA2BB6-BD8A-FBBA-631C-E748BB1D8E69}|Backend.csproj|solutionrelative:dtos\\beerinsertdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5ADA2BB6-BD8A-FBBA-631C-E748BB1D8E69}|Backend.csproj|d:\\windowsproyects\\c_sharp\\cursodehectorleon\\backend\\dtos\\beerupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5ADA2BB6-BD8A-FBBA-631C-E748BB1D8E69}|Backend.csproj|solutionrelative:dtos\\beerupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5ADA2BB6-BD8A-FBBA-631C-E748BB1D8E69}|Backend.csproj|d:\\windowsproyects\\c_sharp\\cursodehectorleon\\backend\\services\\ipostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5ADA2BB6-BD8A-FBBA-631C-E748BB1D8E69}|Backend.csproj|solutionrelative:services\\ipostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5ADA2BB6-BD8A-FBBA-631C-E748BB1D8E69}|Backend.csproj|d:\\windowsproyects\\c_sharp\\cursodehectorleon\\backend\\backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{5ADA2BB6-BD8A-FBBA-631C-E748BB1D8E69}|Backend.csproj|solutionrelative:backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5ADA2BB6-BD8A-FBBA-631C-E748BB1D8E69}|Backend.csproj|d:\\windowsproyects\\c_sharp\\cursodehectorleon\\backend\\migrations\\20260223041930_alcoholinbeer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5ADA2BB6-BD8A-FBBA-631C-E748BB1D8E69}|Backend.csproj|solutionrelative:migrations\\20260223041930_alcoholinbeer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5ADA2BB6-BD8A-FBBA-631C-E748BB1D8E69}|Backend.csproj|d:\\windowsproyects\\c_sharp\\cursodehectorleon\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5ADA2BB6-BD8A-FBBA-631C-E748BB1D8E69}|Backend.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5ADA2BB6-BD8A-FBBA-631C-E748BB1D8E69}|Backend.csproj|d:\\windowsproyects\\c_sharp\\cursodehectorleon\\backend\\services\\postservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5ADA2BB6-BD8A-FBBA-631C-E748BB1D8E69}|Backend.csproj|solutionrelative:services\\postservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5ADA2BB6-BD8A-FBBA-631C-E748BB1D8E69}|Backend.csproj|d:\\windowsproyects\\c_sharp\\cursodehectorleon\\backend\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5ADA2BB6-BD8A-FBBA-631C-E748BB1D8E69}|Backend.csproj|solutionrelative:controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5ADA2BB6-BD8A-FBBA-631C-E748BB1D8E69}|Backend.csproj|d:\\windowsproyects\\c_sharp\\cursodehectorleon\\backend\\services\\peopleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5ADA2BB6-BD8A-FBBA-631C-E748BB1D8E69}|Backend.csproj|solutionrelative:services\\peopleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5ADA2BB6-BD8A-FBBA-631C-E748BB1D8E69}|Backend.csproj|d:\\windowsproyects\\c_sharp\\cursodehectorleon\\backend\\services\\people2service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5ADA2BB6-BD8A-FBBA-631C-E748BB1D8E69}|Backend.csproj|solutionrelative:services\\people2service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5ADA2BB6-BD8A-FBBA-631C-E748BB1D8E69}|Backend.csproj|d:\\windowsproyects\\c_sharp\\cursodehectorleon\\backend\\migrations\\20260223030733_initdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5ADA2BB6-BD8A-FBBA-631C-E748BB1D8E69}|Backend.csproj|solutionrelative:migrations\\20260223030733_initdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -78,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -86,20 +42,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
+              "Title": "Beer.cs",
+              "DocumentMoniker": "D:\\WindowsProyects\\C_SHARP\\CursoDehectorLeon\\Backend\\Models\\Beer.cs",
+              "RelativeDocumentMoniker": "Models\\Beer.cs",
+              "ToolTip": "D:\\WindowsProyects\\C_SHARP\\CursoDehectorLeon\\Backend\\Models\\Beer.cs",
+              "RelativeToolTip": "Models\\Beer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T01:57:00.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "BeerUpdateDto.cs",
               "DocumentMoniker": "D:\\WindowsProyects\\C_SHARP\\CursoDehectorLeon\\Backend\\DTOs\\BeerUpdateDto.cs",
               "RelativeDocumentMoniker": "DTOs\\BeerUpdateDto.cs",
               "ToolTip": "D:\\WindowsProyects\\C_SHARP\\CursoDehectorLeon\\Backend\\DTOs\\BeerUpdateDto.cs",
               "RelativeToolTip": "DTOs\\BeerUpdateDto.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-25T18:40:40.8Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "BeerInsertDto.cs",
               "DocumentMoniker": "D:\\WindowsProyects\\C_SHARP\\CursoDehectorLeon\\Backend\\DTOs\\BeerInsertDto.cs",
               "RelativeDocumentMoniker": "DTOs\\BeerInsertDto.cs",
@@ -107,12 +76,11 @@
               "RelativeToolTip": "DTOs\\BeerInsertDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T18:38:33.553Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-25T18:38:33.553Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "BeerDto.cs",
               "DocumentMoniker": "D:\\WindowsProyects\\C_SHARP\\CursoDehectorLeon\\Backend\\DTOs\\BeerDto.cs",
               "RelativeDocumentMoniker": "DTOs\\BeerDto.cs",
@@ -120,183 +88,33 @@
               "RelativeToolTip": "DTOs\\BeerDto.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAuwAYAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T18:36:04.793Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-25T18:36:04.793Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "BeerController.cs",
               "DocumentMoniker": "D:\\WindowsProyects\\C_SHARP\\CursoDehectorLeon\\Backend\\Controllers\\BeerController.cs",
               "RelativeDocumentMoniker": "Controllers\\BeerController.cs",
               "ToolTip": "D:\\WindowsProyects\\C_SHARP\\CursoDehectorLeon\\Backend\\Controllers\\BeerController.cs",
               "RelativeToolTip": "Controllers\\BeerController.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAzwD8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAswFYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-25T18:15:05.204Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "20260223041930_AlcoholInBeer.cs",
-              "DocumentMoniker": "D:\\WindowsProyects\\C_SHARP\\CursoDehectorLeon\\Backend\\Migrations\\20260223041930_AlcoholInBeer.cs",
-              "RelativeDocumentMoniker": "Migrations\\20260223041930_AlcoholInBeer.cs",
-              "ToolTip": "D:\\WindowsProyects\\C_SHARP\\CursoDehectorLeon\\Backend\\Migrations\\20260223041930_AlcoholInBeer.cs",
-              "RelativeToolTip": "Migrations\\20260223041930_AlcoholInBeer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-23T04:19:30.968Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "20260223030733_InitDB.cs",
-              "DocumentMoniker": "D:\\WindowsProyects\\C_SHARP\\CursoDehectorLeon\\Backend\\Migrations\\20260223030733_InitDB.cs",
-              "RelativeDocumentMoniker": "Migrations\\20260223030733_InitDB.cs",
-              "ToolTip": "D:\\WindowsProyects\\C_SHARP\\CursoDehectorLeon\\Backend\\Migrations\\20260223030733_InitDB.cs",
-              "RelativeToolTip": "Migrations\\20260223030733_InitDB.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-23T03:07:33.742Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "StoreContext.cs",
               "DocumentMoniker": "D:\\WindowsProyects\\C_SHARP\\CursoDehectorLeon\\Backend\\Models\\StoreContext.cs",
               "RelativeDocumentMoniker": "Models\\StoreContext.cs",
               "ToolTip": "D:\\WindowsProyects\\C_SHARP\\CursoDehectorLeon\\Backend\\Models\\StoreContext.cs",
               "RelativeToolTip": "Models\\StoreContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA6wB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-23T01:59:49.522Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Beer.cs",
-              "DocumentMoniker": "D:\\WindowsProyects\\C_SHARP\\CursoDehectorLeon\\Backend\\Models\\Beer.cs",
-              "RelativeDocumentMoniker": "Models\\Beer.cs",
-              "ToolTip": "D:\\WindowsProyects\\C_SHARP\\CursoDehectorLeon\\Backend\\Models\\Beer.cs",
-              "RelativeToolTip": "Models\\Beer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-23T01:49:36.191Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Brand.cs",
-              "DocumentMoniker": "D:\\WindowsProyects\\C_SHARP\\CursoDehectorLeon\\Backend\\Models\\Brand.cs",
-              "RelativeDocumentMoniker": "Models\\Brand.cs",
-              "ToolTip": "D:\\WindowsProyects\\C_SHARP\\CursoDehectorLeon\\Backend\\Models\\Brand.cs",
-              "RelativeToolTip": "Models\\Brand.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAuwAkAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-23T01:40:42.541Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "PostController.cs",
-              "DocumentMoniker": "D:\\WindowsProyects\\C_SHARP\\CursoDehectorLeon\\Backend\\Controllers\\PostController.cs",
-              "RelativeDocumentMoniker": "Controllers\\PostController.cs",
-              "ToolTip": "D:\\WindowsProyects\\C_SHARP\\CursoDehectorLeon\\Backend\\Controllers\\PostController.cs",
-              "RelativeToolTip": "Controllers\\PostController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-04T04:26:02.142Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "PostService.cs",
-              "DocumentMoniker": "D:\\WindowsProyects\\C_SHARP\\CursoDehectorLeon\\Backend\\Services\\PostService.cs",
-              "RelativeDocumentMoniker": "Services\\PostService.cs",
-              "ToolTip": "D:\\WindowsProyects\\C_SHARP\\CursoDehectorLeon\\Backend\\Services\\PostService.cs",
-              "RelativeToolTip": "Services\\PostService.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAA0wBEAAABKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-04T04:11:21.385Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "IPostService.cs",
-              "DocumentMoniker": "D:\\WindowsProyects\\C_SHARP\\CursoDehectorLeon\\Backend\\Services\\IPostService.cs",
-              "RelativeDocumentMoniker": "Services\\IPostService.cs",
-              "ToolTip": "D:\\WindowsProyects\\C_SHARP\\CursoDehectorLeon\\Backend\\Services\\IPostService.cs",
-              "RelativeToolTip": "Services\\IPostService.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAhwAcAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-04T04:07:50.025Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PostDto.cs",
-              "DocumentMoniker": "D:\\WindowsProyects\\C_SHARP\\CursoDehectorLeon\\Backend\\DTOs\\PostDto.cs",
-              "RelativeDocumentMoniker": "DTOs\\PostDto.cs",
-              "ToolTip": "D:\\WindowsProyects\\C_SHARP\\CursoDehectorLeon\\Backend\\DTOs\\PostDto.cs",
-              "RelativeToolTip": "DTOs\\PostDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-04T04:01:47.867Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Backend.csproj",
-              "DocumentMoniker": "D:\\WindowsProyects\\C_SHARP\\CursoDehectorLeon\\Backend\\Backend.csproj",
-              "RelativeDocumentMoniker": "Backend.csproj",
-              "ToolTip": "D:\\WindowsProyects\\C_SHARP\\CursoDehectorLeon\\Backend\\Backend.csproj",
-              "RelativeToolTip": "Backend.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-02-04T03:56:05.756Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "PeopleService.cs",
-              "DocumentMoniker": "D:\\WindowsProyects\\C_SHARP\\CursoDehectorLeon\\Backend\\Services\\PeopleService.cs",
-              "RelativeDocumentMoniker": "Services\\PeopleService.cs",
-              "ToolTip": "D:\\WindowsProyects\\C_SHARP\\CursoDehectorLeon\\Backend\\Services\\PeopleService.cs",
-              "RelativeToolTip": "Services\\PeopleService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T05:21:50.091Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "People2Service.cs",
-              "DocumentMoniker": "D:\\WindowsProyects\\C_SHARP\\CursoDehectorLeon\\Backend\\Services\\People2Service.cs",
-              "RelativeDocumentMoniker": "Services\\People2Service.cs",
-              "ToolTip": "D:\\WindowsProyects\\C_SHARP\\CursoDehectorLeon\\Backend\\Services\\People2Service.cs",
-              "RelativeToolTip": "Services\\People2Service.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAUwAsAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T05:15:25.662Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\WindowsProyects\\C_SHARP\\CursoDehectorLeon\\Backend\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\WindowsProyects\\C_SHARP\\CursoDehectorLeon\\Backend\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAADcAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T05:10:10.052Z"
             }
           ]
         }

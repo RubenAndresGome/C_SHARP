@@ -4,6 +4,8 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using System.Globalization;
+using Microsoft.EntityFrameworkCore;
+
 
 namespace Backend.Controllers
 {
@@ -11,6 +13,8 @@ namespace Backend.Controllers
     [ApiController]
     public class BeerController : ControllerBase
     {
+        private object beerUpdateDto;
+
         private StoreContext _context { get; set; }
 
         public BeerController(StoreContext context)
@@ -34,7 +38,7 @@ namespace Backend.Controllers
                 }).ToListAsync();
         }
         [HttpGet("{id}")]
-        public async Task<ActionResult> GetById(int id)
+        public async Task<ActionResult> GetById(long id)
         {
             var beer = await _context.Beers.FindAsync(id);
 
@@ -54,11 +58,69 @@ namespace Backend.Controllers
 
         }
 
+        [HttpPost]
+        public async Task<ActionResult <BeerDto >> Add (BeerInsertDto beerInsertDto)
+        {
+            var beer = new Beer
+            {
+                Name = beerInsertDto.Name,
+                Alcohol = beerInsertDto.Alcohol,
+                BrandID = (int)beerInsertDto.BrandID
+            };
+            await _context.Beers.AddAsync(beer);
 
 
 
+            await _context.SaveChangesAsync();
+
+            var beerDto = new BeerDto
+            {
+                Id =        beer.BeerID,
+                Name =      beer.Name,
+                Alcohol =   beer.Alcohol,
+                BrandID =   beer.BrandID
+            };
 
 
+            return CreatedAtAction(nameof(GetById), new { id = beer.BeerID }, beerDto);
+        }
+
+        [HttpPut("{id}") ]
+        public async Task<ActionResult <BeerDto>> Update(long  id , BeerUpdateDto beerUpdateDto)
+            { 
+             var beer = await _context.Beers.FindAsync(id);
+            if(beer==null)
+            {
+                return NotFound();
+
+            }
+
+            beer.Name = beerUpdateDto.Name;
+            beer.Alcohol = beerUpdateDto.Alcohol;
+            beer.BrandID = beerUpdateDto.BrandID;
+            await _context.SaveChangesAsync();
+
+            var beerDto = new BeerDto
+            {
+                Id = beer.BeerID,
+                Name = beer.Name,
+                Alcohol = beer.Alcohol,
+                BrandID = beer.BrandID
+            };
+
+            return Ok(beerDto);
+
+        }
+
+
+        /*
+         **
+         **
+         **
+         */
+
+
+        
 
 
 

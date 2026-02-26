@@ -1,10 +1,12 @@
 ﻿using Backend.DTOs;
 using Backend.Models;
+using Backend.Validators;
+using FluentValidation;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using System.Globalization;
 using Microsoft.EntityFrameworkCore;
+using System.Globalization;
 
 
 namespace Backend.Controllers
@@ -16,11 +18,12 @@ namespace Backend.Controllers
         private object beerUpdateDto;
 
         private StoreContext _context { get; set; }
+        private IValidator<BeerInsertDto> _beerinsertValidator { get; set; }
 
-        public BeerController(StoreContext context)
+        public BeerController(StoreContext context, IValidator<BeerInsertDto> beerinsertValidator)
         {
             _context = context;
-
+            _beerinsertValidator=beerinsertValidator;
         }
 
 
@@ -61,6 +64,14 @@ namespace Backend.Controllers
         [HttpPost]
         public async Task<ActionResult <BeerDto >> Add (BeerInsertDto beerInsertDto)
         {
+            var validationResult = await _beerinsertValidator.ValidateAsync(beerInsertDto);
+
+            if (!validationResult.IsValid) 
+            { 
+                return BadRequest(validationResult.Errors.Select(e => e.ErrorMessage));
+            }
+
+
             var beer = new Beer
             {
                 Name = beerInsertDto.Name,
@@ -97,9 +108,10 @@ namespace Backend.Controllers
 
             beer.Name = beerUpdateDto.Name;
             beer.Alcohol = beerUpdateDto.Alcohol;
-            beer.BrandID = beerUpdateDto.BrandID;
+            beer.BrandID = (int)beerUpdateDto.BrandID;
             await _context.SaveChangesAsync();
-
+            // Si tu DTO usa long y tu Modelo usa int, haz el cast manual aquí:
+            
             var beerDto = new BeerDto
             {
                 Id = beer.BeerID,
@@ -119,8 +131,19 @@ namespace Backend.Controllers
          **
          */
 
-
-        
+        [HttpDelete("{id}")]
+        public async Task<ActionResult> Delete( long id)
+        {
+           var beer = await _context.Beers.FindAsync(id);
+            if(beer == null)
+            {
+                return NotFound();
+            }
+            _context.Beers.Remove(beer);
+            //realizar cambio 
+            await _context.SaveChangesAsync();
+            return Ok();
+        }
 
 
 

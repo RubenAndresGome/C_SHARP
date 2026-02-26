@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "nDcyfVLzYrw=",
+  "dgSpecHash": "00i1AaHr3KA=",
   "success": true,
   "projectFilePath": "D:\\WindowsProyects\\C_SHARP\\CursoDehectorLeon\\Backend\\Backend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\IK\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\IK\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
+    "C:\\Users\\IK\\.nuget\\packages\\fluentvalidation\\12.1.1\\fluentvalidation.12.1.1.nupkg.sha512",
     "C:\\Users\\IK\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\IK\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
     "C:\\Users\\IK\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.3.3\\microsoft.codeanalysis.analyzers.3.3.3.nupkg.sha512",

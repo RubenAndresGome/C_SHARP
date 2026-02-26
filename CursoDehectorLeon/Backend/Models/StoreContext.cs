@@ -15,20 +15,21 @@ namespace Backend.Models
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            // Le decimos: "En C# es long, pero en la DB léelo y escríbelo como int"
+            // Esto "mapea" el bigint de SQL al int de C# automáticamente
             modelBuilder.Entity<Beer>()
                 .Property(b => b.BeerID)
-                .HasConversion<int>();
+                .HasConversion<long>();
 
             modelBuilder.Entity<Beer>()
                 .Property(b => b.BrandID)
-                .HasConversion<int>();
+                .HasConversion<long>();
 
             modelBuilder.Entity<Brand>()
                 .Property(b => b.Id)
-                .HasConversion<int>();
+                .HasConversion<long>();
         }
 
+        ///////
 
     }
 }

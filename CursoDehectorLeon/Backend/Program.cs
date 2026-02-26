@@ -1,5 +1,8 @@
+using Backend.DTOs;
 using Backend.Models;
 using Backend.Services;
+using Backend.Validators;
+using FluentValidation;
 using Microsoft.EntityFrameworkCore; 
 
 var builder = WebApplication.CreateBuilder(args);
@@ -41,10 +44,16 @@ builder.Services.AddHttpClient<IPostService, PostService>(
     c.BaseAddress = new Uri(builder.Configuration["BaseurlPosts"]);
 }
 );
-
+//ENTITY FRAMEWORKS 
 builder.Services.AddDbContext<StoreContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("StoreConnection"))
 );
+
+/*
+ * validators
+ */
+builder.Services.AddScoped<  IValidator<BeerInsertDto>, BeerInsertValidator >();
+
 
 
 

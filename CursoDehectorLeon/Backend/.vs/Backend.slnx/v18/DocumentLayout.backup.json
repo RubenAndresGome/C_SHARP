@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\WindowsProyects\\C_SHARP\\CursoDehectorLeon\\Backend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5ADA2BB6-BD8A-FBBA-631C-E748BB1D8E69}|Backend.csproj|d:\\windowsproyects\\c_sharp\\cursodehectorleon\\backend\\models\\storecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5ADA2BB6-BD8A-FBBA-631C-E748BB1D8E69}|Backend.csproj|solutionrelative:models\\storecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5ADA2BB6-BD8A-FBBA-631C-E748BB1D8E69}|Backend.csproj|d:\\windowsproyects\\c_sharp\\cursodehectorleon\\backend\\controllers\\beercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5ADA2BB6-BD8A-FBBA-631C-E748BB1D8E69}|Backend.csproj|solutionrelative:controllers\\beercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ADA2BB6-BD8A-FBBA-631C-E748BB1D8E69}|Backend.csproj|d:\\windowsproyects\\c_sharp\\cursodehectorleon\\backend\\models\\storecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ADA2BB6-BD8A-FBBA-631C-E748BB1D8E69}|Backend.csproj|solutionrelative:models\\storecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5ADA2BB6-BD8A-FBBA-631C-E748BB1D8E69}|Backend.csproj|d:\\windowsproyects\\c_sharp\\cursodehectorleon\\backend\\models\\beer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -48,7 +48,7 @@
               "RelativeDocumentMoniker": "Models\\Beer.cs",
               "ToolTip": "D:\\WindowsProyects\\C_SHARP\\CursoDehectorLeon\\Backend\\Models\\Beer.cs",
               "RelativeToolTip": "Models\\Beer.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAkwBEAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-26T01:57:00.533Z",
               "EditorCaption": ""
@@ -63,8 +63,7 @@
               "RelativeToolTip": "DTOs\\BeerUpdateDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T18:40:40.8Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-25T18:40:40.8Z"
             },
             {
               "$type": "Document",
@@ -92,26 +91,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "BeerController.cs",
               "DocumentMoniker": "D:\\WindowsProyects\\C_SHARP\\CursoDehectorLeon\\Backend\\Controllers\\BeerController.cs",
               "RelativeDocumentMoniker": "Controllers\\BeerController.cs",
               "ToolTip": "D:\\WindowsProyects\\C_SHARP\\CursoDehectorLeon\\Backend\\Controllers\\BeerController.cs",
               "RelativeToolTip": "Controllers\\BeerController.cs",
-              "ViewState": "AgIAAFsAAAAAAAAAAAAswHAAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAcwIYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-25T18:15:05.204Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "StoreContext.cs",
               "DocumentMoniker": "D:\\WindowsProyects\\C_SHARP\\CursoDehectorLeon\\Backend\\Models\\StoreContext.cs",
               "RelativeDocumentMoniker": "Models\\StoreContext.cs",
-              "ToolTip": "D:\\WindowsProyects\\C_SHARP\\CursoDehectorLeon\\Backend\\Models\\StoreContext.cs*",
-              "RelativeToolTip": "Models\\StoreContext.cs*",
-              "ViewState": "AgIAAAwAAAAAAAAAAAA/wB8AAAAAAAAAAAAAAA==",
+              "ToolTip": "D:\\WindowsProyects\\C_SHARP\\CursoDehectorLeon\\Backend\\Models\\StoreContext.cs",
+              "RelativeToolTip": "Models\\StoreContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvx8AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-23T01:59:49.522Z",
               "EditorCaption": ""

@@ -4,8 +4,10 @@ namespace Backend.Models
 {
     public class Beer
     {
-        public int BeerID { get; set; }
+        public long BeerID { get; set; }
         public string Name { get; set; } = string.Empty;
+
+        public long BrandID { get; set; }
 
         [ForeignKey("BrandID")]
         public virtual Brand Brand { get; set; }

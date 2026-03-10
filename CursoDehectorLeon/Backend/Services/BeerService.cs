@@ -1,4 +1,5 @@
-﻿using Backend.DTOs;
+﻿using AutoMapper;
+using Backend.DTOs;
 using Backend.Models;
 using Backend.Models.Repositories;
 using Microsoft.EntityFrameworkCore;
@@ -10,27 +11,35 @@ namespace Backend.Services
         //private StoreContext _context;
         private IRepository<Beer> _beersRepository;
 
+
+        private IMapper _mapper;
+
+
         public BeerService(
             //StoreContext context,
             IRepository<Beer> beersRepository
+            , IMapper mapper
             )
         {
             //_context = context;
             _beersRepository = beersRepository;
+            _mapper = mapper;
         }
 
         public async Task<IEnumerable<BeerDto>> Get()
         {
            
             var beers = await _beersRepository.Get();
+            /*
             var result = beers.Select(b => new BeerDto
             {
                 BeerID = (long)(int)b.BeerID,
                 Name = b.Name,
                 Alcohol = b.Alcohol,
                 BrandID = (long)(int)b.BrandID
-            }).ToList();
+            }).ToList();*/
 
+            var result= beers.Select(b=> _mapper.Map<BeerDto>(b));
             return result;
 
         }
@@ -40,6 +49,8 @@ namespace Backend.Services
 
             if (beer != null)
             {
+
+                /*
                 var beerDto = new BeerDto
                 {
                     BeerID = (long)(int)beer.BeerID,
@@ -47,6 +58,10 @@ namespace Backend.Services
                     Alcohol = beer.Alcohol,
                     BrandID = (long)(int)beer.BrandID
                 };
+
+                */
+                
+                var beerDto = _mapper.Map<BeerDto>(beer);
                 return beerDto;
             }
 
@@ -58,17 +73,24 @@ namespace Backend.Services
         {
 
             //var _context= this._context;
-
+            /*
             var beer = new Beer
             {
                 Name = beerInsertDto.Name,
                 Alcohol = beerInsertDto.Alcohol,
                 BrandID = (int)beerInsertDto.BrandID
             };
+
+            */
+
+            var beer = _mapper.Map<Beer>(beerInsertDto);
+
             await _beersRepository.Add(beer);
 
             await _beersRepository.Save();
 
+                var beerDto = _mapper.Map<BeerDto>(beer);
+            /*
             var beerDto = new BeerDto
             {
                 BeerID = beer.BeerID,
@@ -76,6 +98,7 @@ namespace Backend.Services
                 Alcohol = beer.Alcohol,
                 BrandID = beer.BrandID
             };
+            */
             return beerDto;
         }
 
@@ -106,28 +129,31 @@ namespace Backend.Services
 
         public async Task<BeerDto> Update(long id, BeerUpdateDto beerUpdateDto)
         {
+            // 1. Obtener la entidad de la base de datos
             var beer = await _beersRepository.GetById(id);
-            if(beer != null)
+
+            if (beer != null)
             {
-                beer.Name = beerUpdateDto.Name;
-                beer.Alcohol = beerUpdateDto.Alcohol;
-                beer.BrandID = (int)beerUpdateDto.BrandID;
+                // 2. Mapear los cambios del DTO a la entidad existente
+                // Esto actualiza las propiedades de 'beer' con los valores de 'beerUpdateDto'
+                _mapper.Map(beerUpdateDto, beer);
+
+                // 3. Persistir los cambios
                 _beersRepository.Update(beer);
                 await _beersRepository.Save();
-                
-                // Si tu DTO usa long y tu Modelo usa int, haz el cast manual aquí:
 
-                var beerDto = new BeerDto
-                {
-                    BeerID = beer.BeerID,
-                    Name = beer.Name,
-                    Alcohol = beer.Alcohol,
-                    BrandID = beer.BrandID
-                };
-                return beerDto;
-
+                // 4. Retornar el DTO de respuesta mapeado desde la entidad actualizada
+                return _mapper.Map<BeerDto>(beer);
             }
+
             return null;
         }
+
+        /**/
+
+
+
+
     }
+
 }

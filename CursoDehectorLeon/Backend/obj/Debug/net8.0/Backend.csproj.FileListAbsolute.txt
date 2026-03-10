@@ -147,3 +147,5 @@ D:\WindowsProyects\C_SHARP\CursoDehectorLeon\Backend\obj\Debug\net8.0\refint\Bac
 D:\WindowsProyects\C_SHARP\CursoDehectorLeon\Backend\obj\Debug\net8.0\Backend.pdb
 D:\WindowsProyects\C_SHARP\CursoDehectorLeon\Backend\obj\Debug\net8.0\Backend.genruntimeconfig.cache
 D:\WindowsProyects\C_SHARP\CursoDehectorLeon\Backend\obj\Debug\net8.0\ref\Backend.dll
+D:\WindowsProyects\C_SHARP\CursoDehectorLeon\Backend\bin\Debug\net8.0\AutoMapper.dll
+D:\WindowsProyects\C_SHARP\CursoDehectorLeon\Backend\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

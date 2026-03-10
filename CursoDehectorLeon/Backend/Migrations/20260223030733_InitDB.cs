@@ -39,7 +39,7 @@ namespace Backend.Migrations
                         name: "FK_Beers_Brands_BrandID",
                         column: x => x.BrandID,
                         principalTable: "Brands",
-                        principalColumn: "Id",
+                        principalColumn: "BeerID",
                         onDelete: ReferentialAction.Cascade);
                 });
 

@@ -51,17 +51,17 @@ namespace Backend.Migrations
 
             modelBuilder.Entity("Backend.Models.Brand", b =>
                 {
-                    b.Property<long>("Id")
+                    b.Property<long>("BeerID")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("bigint");
 
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<long>("Id"));
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<long>("BeerID"));
 
                     b.Property<string>("Name")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.HasKey("Id");
+                    b.HasKey("BeerID");
 
                     b.ToTable("Brands");
                 });

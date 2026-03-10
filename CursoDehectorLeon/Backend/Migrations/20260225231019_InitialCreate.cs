@@ -11,7 +11,7 @@ namespace Backend.Migrations
         protected override void Up(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.AlterColumn<int>(
-                name: "Id",
+                name: "BeerID",
                 table: "Brands",
                 type: "int",
                 nullable: false,
@@ -33,7 +33,7 @@ namespace Backend.Migrations
         protected override void Down(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.AlterColumn<long>(
-                name: "Id",
+                name: "BeerID",
                 table: "Brands",
                 type: "bigint",
                 nullable: false,

@@ -185,7 +185,24 @@
         ],
         "responses": {
           "200": {
-            "description": "OK"
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/BeerDto"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/BeerDto"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/BeerDto"
+                }
+              }
+            }
           }
         }
       }
@@ -456,7 +473,7 @@
       "BeerDto": {
         "type": "object",
         "properties": {
-          "id": {
+          "beerID": {
             "type": "integer",
             "format": "int64"
           },
@@ -496,6 +513,10 @@
       "BeerUpdateDto": {
         "type": "object",
         "properties": {
+          "beerID": {
+            "type": "integer",
+            "format": "int64"
+          },
           "name": {
             "type": "string",
             "nullable": true

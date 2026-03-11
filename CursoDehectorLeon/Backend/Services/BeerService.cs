@@ -6,14 +6,17 @@ using Microsoft.EntityFrameworkCore;
 
 namespace Backend.Services
 {
-    public class BeerService : ICommonService<BeerDto, BeerInsertDto, BeerUpdateDto>
+    public class BeerService : ICommonService <BeerDto, BeerInsertDto, BeerUpdateDto>
     {
         //private StoreContext _context;
         private IRepository<Beer> _beersRepository;
 
-
+        public List<string> Errors { get; private set; }
         private IMapper _mapper;
 
+      
+
+       
 
         public BeerService(
             //StoreContext context,
@@ -24,6 +27,7 @@ namespace Backend.Services
             //_context = context;
             _beersRepository = beersRepository;
             _mapper = mapper;
+            this.Errors = new List<string>();
         }
 
         public async Task<IEnumerable<BeerDto>> Get()
@@ -147,6 +151,34 @@ namespace Backend.Services
             }
 
             return null;
+        }
+
+        public bool validate(BeerInsertDto beerInsertDto)
+        {
+            if (_beersRepository.Search(b=> b.Name ==beerInsertDto.Name).Count()>0)
+            {
+                Errors.Add("Ya existe una cerveza con ese nombre.");
+                return false;
+
+            }
+            return true;
+        }
+
+        public bool validate(BeerUpdateDto beerUpdateDto)
+        {
+            if (    _beersRepository.Search(
+             
+             b => b.Name == beerUpdateDto.Name &&
+            (beerUpdateDto.BeerID != b.BeerID)
+             ).Count() > 0)
+            {
+                Errors.Add("Ya existe una cerveza con ese nombre.");
+                return false;
+
+            }
+
+
+            return true;
         }
 
         /**/

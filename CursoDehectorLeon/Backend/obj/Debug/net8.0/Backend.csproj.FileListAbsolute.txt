@@ -1,12 +1,3 @@
-D:\WindowsProyects\C_SHARP\CursoDehectorLeon\Backend\obj\Debug\net8.0\Backend.csproj.AssemblyReference.cache
-D:\WindowsProyects\C_SHARP\CursoDehectorLeon\Backend\obj\Debug\net8.0\rpswa.dswa.cache.json
-D:\WindowsProyects\C_SHARP\CursoDehectorLeon\Backend\obj\Debug\net8.0\Backend.GeneratedMSBuildEditorConfig.editorconfig
-D:\WindowsProyects\C_SHARP\CursoDehectorLeon\Backend\obj\Debug\net8.0\Backend.AssemblyInfoInputs.cache
-D:\WindowsProyects\C_SHARP\CursoDehectorLeon\Backend\obj\Debug\net8.0\Backend.AssemblyInfo.cs
-D:\WindowsProyects\C_SHARP\CursoDehectorLeon\Backend\obj\Debug\net8.0\Backend.csproj.CoreCompileInputs.cache
-D:\WindowsProyects\C_SHARP\CursoDehectorLeon\Backend\obj\Debug\net8.0\Backend.MvcApplicationPartsAssemblyInfo.cs
-D:\WindowsProyects\C_SHARP\CursoDehectorLeon\Backend\obj\Debug\net8.0\Backend.MvcApplicationPartsAssemblyInfo.cache
-D:\WindowsProyects\C_SHARP\CursoDehectorLeon\Backend\obj\Debug\net8.0\Backend.sourcelink.json
 D:\WindowsProyects\C_SHARP\CursoDehectorLeon\Backend\bin\Debug\net8.0\appsettings.Development.json
 D:\WindowsProyects\C_SHARP\CursoDehectorLeon\Backend\bin\Debug\net8.0\appsettings.json
 D:\WindowsProyects\C_SHARP\CursoDehectorLeon\Backend\bin\Debug\net8.0\Backend.staticwebassets.endpoints.json
@@ -15,6 +6,8 @@ D:\WindowsProyects\C_SHARP\CursoDehectorLeon\Backend\bin\Debug\net8.0\Backend.de
 D:\WindowsProyects\C_SHARP\CursoDehectorLeon\Backend\bin\Debug\net8.0\Backend.runtimeconfig.json
 D:\WindowsProyects\C_SHARP\CursoDehectorLeon\Backend\bin\Debug\net8.0\Backend.dll
 D:\WindowsProyects\C_SHARP\CursoDehectorLeon\Backend\bin\Debug\net8.0\Backend.pdb
+D:\WindowsProyects\C_SHARP\CursoDehectorLeon\Backend\bin\Debug\net8.0\AutoMapper.dll
+D:\WindowsProyects\C_SHARP\CursoDehectorLeon\Backend\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 D:\WindowsProyects\C_SHARP\CursoDehectorLeon\Backend\bin\Debug\net8.0\Azure.Core.dll
 D:\WindowsProyects\C_SHARP\CursoDehectorLeon\Backend\bin\Debug\net8.0\Azure.Identity.dll
 D:\WindowsProyects\C_SHARP\CursoDehectorLeon\Backend\bin\Debug\net8.0\FluentValidation.dll
@@ -131,6 +124,15 @@ D:\WindowsProyects\C_SHARP\CursoDehectorLeon\Backend\bin\Debug\net8.0\runtimes\w
 D:\WindowsProyects\C_SHARP\CursoDehectorLeon\Backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
 D:\WindowsProyects\C_SHARP\CursoDehectorLeon\Backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 D:\WindowsProyects\C_SHARP\CursoDehectorLeon\Backend\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\WindowsProyects\C_SHARP\CursoDehectorLeon\Backend\obj\Debug\net8.0\Backend.csproj.AssemblyReference.cache
+D:\WindowsProyects\C_SHARP\CursoDehectorLeon\Backend\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\WindowsProyects\C_SHARP\CursoDehectorLeon\Backend\obj\Debug\net8.0\Backend.GeneratedMSBuildEditorConfig.editorconfig
+D:\WindowsProyects\C_SHARP\CursoDehectorLeon\Backend\obj\Debug\net8.0\Backend.AssemblyInfoInputs.cache
+D:\WindowsProyects\C_SHARP\CursoDehectorLeon\Backend\obj\Debug\net8.0\Backend.AssemblyInfo.cs
+D:\WindowsProyects\C_SHARP\CursoDehectorLeon\Backend\obj\Debug\net8.0\Backend.csproj.CoreCompileInputs.cache
+D:\WindowsProyects\C_SHARP\CursoDehectorLeon\Backend\obj\Debug\net8.0\Backend.MvcApplicationPartsAssemblyInfo.cs
+D:\WindowsProyects\C_SHARP\CursoDehectorLeon\Backend\obj\Debug\net8.0\Backend.MvcApplicationPartsAssemblyInfo.cache
+D:\WindowsProyects\C_SHARP\CursoDehectorLeon\Backend\obj\Debug\net8.0\Backend.sourcelink.json
 D:\WindowsProyects\C_SHARP\CursoDehectorLeon\Backend\obj\Debug\net8.0\rjimswa.dswa.cache.json
 D:\WindowsProyects\C_SHARP\CursoDehectorLeon\Backend\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
 D:\WindowsProyects\C_SHARP\CursoDehectorLeon\Backend\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
@@ -147,5 +149,3 @@ D:\WindowsProyects\C_SHARP\CursoDehectorLeon\Backend\obj\Debug\net8.0\refint\Bac
 D:\WindowsProyects\C_SHARP\CursoDehectorLeon\Backend\obj\Debug\net8.0\Backend.pdb
 D:\WindowsProyects\C_SHARP\CursoDehectorLeon\Backend\obj\Debug\net8.0\Backend.genruntimeconfig.cache
 D:\WindowsProyects\C_SHARP\CursoDehectorLeon\Backend\obj\Debug\net8.0\ref\Backend.dll
-D:\WindowsProyects\C_SHARP\CursoDehectorLeon\Backend\bin\Debug\net8.0\AutoMapper.dll
-D:\WindowsProyects\C_SHARP\CursoDehectorLeon\Backend\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

@@ -7,6 +7,22 @@
       "RelativeMoniker": "D:0:0:{5ADA2BB6-BD8A-FBBA-631C-E748BB1D8E69}|Backend.csproj|solutionrelative:services\\beerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{5ADA2BB6-BD8A-FBBA-631C-E748BB1D8E69}|Backend.csproj|d:\\windowsproyects\\c_sharp\\cursodehectorleon\\backend\\models\\repositories\\beerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ADA2BB6-BD8A-FBBA-631C-E748BB1D8E69}|Backend.csproj|solutionrelative:models\\repositories\\beerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ADA2BB6-BD8A-FBBA-631C-E748BB1D8E69}|Backend.csproj|d:\\windowsproyects\\c_sharp\\cursodehectorleon\\backend\\models\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ADA2BB6-BD8A-FBBA-631C-E748BB1D8E69}|Backend.csproj|solutionrelative:models\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ADA2BB6-BD8A-FBBA-631C-E748BB1D8E69}|Backend.csproj|d:\\windowsproyects\\c_sharp\\cursodehectorleon\\backend\\services\\icommonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ADA2BB6-BD8A-FBBA-631C-E748BB1D8E69}|Backend.csproj|solutionrelative:services\\icommonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ADA2BB6-BD8A-FBBA-631C-E748BB1D8E69}|Backend.csproj|d:\\windowsproyects\\c_sharp\\cursodehectorleon\\backend\\controllers\\beercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ADA2BB6-BD8A-FBBA-631C-E748BB1D8E69}|Backend.csproj|solutionrelative:controllers\\beercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5ADA2BB6-BD8A-FBBA-631C-E748BB1D8E69}|Backend.csproj|d:\\windowsproyects\\c_sharp\\cursodehectorleon\\backend\\automappers\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5ADA2BB6-BD8A-FBBA-631C-E748BB1D8E69}|Backend.csproj|solutionrelative:automappers\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,28 +39,12 @@
       "RelativeMoniker": "D:0:0:{5ADA2BB6-BD8A-FBBA-631C-E748BB1D8E69}|Backend.csproj|solutionrelative:dtos\\beerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5ADA2BB6-BD8A-FBBA-631C-E748BB1D8E69}|Backend.csproj|d:\\windowsproyects\\c_sharp\\cursodehectorleon\\backend\\controllers\\beercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5ADA2BB6-BD8A-FBBA-631C-E748BB1D8E69}|Backend.csproj|solutionrelative:controllers\\beercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5ADA2BB6-BD8A-FBBA-631C-E748BB1D8E69}|Backend.csproj|d:\\windowsproyects\\c_sharp\\cursodehectorleon\\backend\\dtos\\beerinsertdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5ADA2BB6-BD8A-FBBA-631C-E748BB1D8E69}|Backend.csproj|solutionrelative:dtos\\beerinsertdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5ADA2BB6-BD8A-FBBA-631C-E748BB1D8E69}|Backend.csproj|d:\\windowsproyects\\c_sharp\\cursodehectorleon\\backend\\services\\icommonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5ADA2BB6-BD8A-FBBA-631C-E748BB1D8E69}|Backend.csproj|solutionrelative:services\\icommonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5ADA2BB6-BD8A-FBBA-631C-E748BB1D8E69}|Backend.csproj|d:\\windowsproyects\\c_sharp\\cursodehectorleon\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5ADA2BB6-BD8A-FBBA-631C-E748BB1D8E69}|Backend.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5ADA2BB6-BD8A-FBBA-631C-E748BB1D8E69}|Backend.csproj|d:\\windowsproyects\\c_sharp\\cursodehectorleon\\backend\\models\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5ADA2BB6-BD8A-FBBA-631C-E748BB1D8E69}|Backend.csproj|solutionrelative:models\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5ADA2BB6-BD8A-FBBA-631C-E748BB1D8E69}|Backend.csproj|d:\\windowsproyects\\c_sharp\\cursodehectorleon\\backend\\models\\repositories\\beerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5ADA2BB6-BD8A-FBBA-631C-E748BB1D8E69}|Backend.csproj|solutionrelative:models\\repositories\\beerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5ADA2BB6-BD8A-FBBA-631C-E748BB1D8E69}|Backend.csproj|d:\\windowsproyects\\c_sharp\\cursodehectorleon\\backend\\validators\\beerinsertvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -62,24 +62,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MappingProfile.cs",
-              "DocumentMoniker": "D:\\WindowsProyects\\C_SHARP\\CursoDehectorLeon\\Backend\\Automappers\\MappingProfile.cs",
-              "RelativeDocumentMoniker": "Automappers\\MappingProfile.cs",
-              "ToolTip": "D:\\WindowsProyects\\C_SHARP\\CursoDehectorLeon\\Backend\\Automappers\\MappingProfile.cs",
-              "RelativeToolTip": "Automappers\\MappingProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-10T22:24:05.685Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -89,53 +76,27 @@
               "RelativeDocumentMoniker": "Services\\BeerService.cs",
               "ToolTip": "D:\\WindowsProyects\\C_SHARP\\CursoDehectorLeon\\Backend\\Services\\BeerService.cs",
               "RelativeToolTip": "Services\\BeerService.cs",
-              "ViewState": "AgIAAHUAAAAAAAAAAAAiwJUAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAJ0AAAAAAAAAAAAEwK4AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-09T22:14:45Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "BeerInsertDto.cs",
-              "DocumentMoniker": "D:\\WindowsProyects\\C_SHARP\\CursoDehectorLeon\\Backend\\DTOs\\BeerInsertDto.cs",
-              "RelativeDocumentMoniker": "DTOs\\BeerInsertDto.cs",
-              "ToolTip": "D:\\WindowsProyects\\C_SHARP\\CursoDehectorLeon\\Backend\\DTOs\\BeerInsertDto.cs",
-              "RelativeToolTip": "DTOs\\BeerInsertDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T18:38:33.553Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Beer.cs",
-              "DocumentMoniker": "D:\\WindowsProyects\\C_SHARP\\CursoDehectorLeon\\Backend\\Models\\Beer.cs",
-              "RelativeDocumentMoniker": "Models\\Beer.cs",
-              "ToolTip": "D:\\WindowsProyects\\C_SHARP\\CursoDehectorLeon\\Backend\\Models\\Beer.cs",
-              "RelativeToolTip": "Models\\Beer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-26T01:57:00.533Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "BeerController.cs",
               "DocumentMoniker": "D:\\WindowsProyects\\C_SHARP\\CursoDehectorLeon\\Backend\\Controllers\\BeerController.cs",
               "RelativeDocumentMoniker": "Controllers\\BeerController.cs",
               "ToolTip": "D:\\WindowsProyects\\C_SHARP\\CursoDehectorLeon\\Backend\\Controllers\\BeerController.cs",
               "RelativeToolTip": "Controllers\\BeerController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAACIAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAAAFAAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-25T18:15:05.204Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "BeerDto.cs",
               "DocumentMoniker": "D:\\WindowsProyects\\C_SHARP\\CursoDehectorLeon\\Backend\\DTOs\\BeerDto.cs",
               "RelativeDocumentMoniker": "DTOs\\BeerDto.cs",
@@ -143,12 +104,11 @@
               "RelativeToolTip": "DTOs\\BeerDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T18:36:04.793Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-25T18:36:04.793Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "BeerUpdateDto.cs",
               "DocumentMoniker": "D:\\WindowsProyects\\C_SHARP\\CursoDehectorLeon\\Backend\\DTOs\\BeerUpdateDto.cs",
               "RelativeDocumentMoniker": "DTOs\\BeerUpdateDto.cs",
@@ -156,21 +116,82 @@
               "RelativeToolTip": "DTOs\\BeerUpdateDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T18:40:40.8Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-25T18:40:40.8Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "ICommonService.cs",
               "DocumentMoniker": "D:\\WindowsProyects\\C_SHARP\\CursoDehectorLeon\\Backend\\Services\\ICommonService.cs",
               "RelativeDocumentMoniker": "Services\\ICommonService.cs",
               "ToolTip": "D:\\WindowsProyects\\C_SHARP\\CursoDehectorLeon\\Backend\\Services\\ICommonService.cs",
               "RelativeToolTip": "Services\\ICommonService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA5wBEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-09T19:06:59.979Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BeerRepository.cs",
+              "DocumentMoniker": "D:\\WindowsProyects\\C_SHARP\\CursoDehectorLeon\\Backend\\Models\\Repositories\\BeerRepository.cs",
+              "RelativeDocumentMoniker": "Models\\Repositories\\BeerRepository.cs",
+              "ToolTip": "D:\\WindowsProyects\\C_SHARP\\CursoDehectorLeon\\Backend\\Models\\Repositories\\BeerRepository.cs",
+              "RelativeToolTip": "Models\\Repositories\\BeerRepository.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAkwDQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T19:50:54.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\WindowsProyects\\C_SHARP\\CursoDehectorLeon\\Backend\\Models\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "Models\\Repositories\\IRepository.cs",
+              "ToolTip": "D:\\WindowsProyects\\C_SHARP\\CursoDehectorLeon\\Backend\\Models\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "Models\\Repositories\\IRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAIwA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T19:40:21.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Beer.cs",
+              "DocumentMoniker": "D:\\WindowsProyects\\C_SHARP\\CursoDehectorLeon\\Backend\\Models\\Beer.cs",
+              "RelativeDocumentMoniker": "Models\\Beer.cs",
+              "ToolTip": "D:\\WindowsProyects\\C_SHARP\\CursoDehectorLeon\\Backend\\Models\\Beer.cs",
+              "RelativeToolTip": "Models\\Beer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T01:57:00.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BeerInsertDto.cs",
+              "DocumentMoniker": "D:\\WindowsProyects\\C_SHARP\\CursoDehectorLeon\\Backend\\DTOs\\BeerInsertDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\BeerInsertDto.cs",
+              "ToolTip": "D:\\WindowsProyects\\C_SHARP\\CursoDehectorLeon\\Backend\\DTOs\\BeerInsertDto.cs",
+              "RelativeToolTip": "DTOs\\BeerInsertDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T18:38:33.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "D:\\WindowsProyects\\C_SHARP\\CursoDehectorLeon\\Backend\\Automappers\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Automappers\\MappingProfile.cs",
+              "ToolTip": "D:\\WindowsProyects\\C_SHARP\\CursoDehectorLeon\\Backend\\Automappers\\MappingProfile.cs",
+              "RelativeToolTip": "Automappers\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T22:24:05.685Z"
             },
             {
               "$type": "Document",
@@ -186,7 +207,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\WindowsProyects\\C_SHARP\\CursoDehectorLeon\\Backend\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -195,30 +216,6 @@
               "ViewState": "AgIAAD8AAAAAAAAAAAAjwEgAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-26T03:01:47.171Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IRepository.cs",
-              "DocumentMoniker": "D:\\WindowsProyects\\C_SHARP\\CursoDehectorLeon\\Backend\\Models\\Repositories\\IRepository.cs",
-              "RelativeDocumentMoniker": "Models\\Repositories\\IRepository.cs",
-              "ToolTip": "D:\\WindowsProyects\\C_SHARP\\CursoDehectorLeon\\Backend\\Models\\Repositories\\IRepository.cs",
-              "RelativeToolTip": "Models\\Repositories\\IRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-10T19:40:21.311Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "BeerRepository.cs",
-              "DocumentMoniker": "D:\\WindowsProyects\\C_SHARP\\CursoDehectorLeon\\Backend\\Models\\Repositories\\BeerRepository.cs",
-              "RelativeDocumentMoniker": "Models\\Repositories\\BeerRepository.cs",
-              "ToolTip": "D:\\WindowsProyects\\C_SHARP\\CursoDehectorLeon\\Backend\\Models\\Repositories\\BeerRepository.cs",
-              "RelativeToolTip": "Models\\Repositories\\BeerRepository.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAkwCsAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-10T19:50:54.759Z"
             },
             {
               "$type": "Document",

@@ -50,6 +50,12 @@ namespace Backend.Models.Repositories
             await this._context.SaveChangesAsync();
         }
 
-        
+        public IEnumerable<Beer> Search(Func<Beer,bool> filter)
+        {
+            var r= _context.Beers.Where(filter).ToList();
+            return r;
+        }
+
+
     }
 }
